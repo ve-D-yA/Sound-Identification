@@ -1,0 +1,40 @@
+body
+{
+    background-color: palegreen;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.header_div
+{
+    background-color: chartreuse;
+    color: black;
+}
+
+.header_div p
+{
+    font-family: 'Underdog', cursive;
+    color: darkseagreen;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button
+{
+    font-family: 'Combo', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color:aquamarine;
+    color: gold;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+ }
